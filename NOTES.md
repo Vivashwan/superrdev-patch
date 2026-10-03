@@ -23,4 +23,4 @@
 `LOWER(col) LIKE '%term%'` can't use an index, so search becomes a full scan as the table grows. There are also no automated tests to catch regressions like the precedence bug.
 
 ## Tools / AI used
-TODO: fill in yourself
+Claude
